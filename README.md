@@ -2,8 +2,14 @@
 ## breve descripcion de lo que contiene mi repositorio:
 mi repositorio contiene material y ejercicios relacionados con el uso de Git y GitHub, como parte de la asignatura de programación 
 ## cuales son los pasos para clonar y ejecutar el proyecto:
+1. Clonar el repositorio:
 
-# Unidad No. 1 - Git y GitHub
+Copia la URL del repositorio 
+Abre la consola y ejecuta:
+git clone (pon la URL del repositorio)
+entra al directorio del proyecto: 
+cd(nombre del repositorio)
+
 ## Información del estudiante  
 Nombre del estudiante: salome giraldo 
 Id.:  000551048
