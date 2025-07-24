@@ -1,0 +1,43 @@
+# Ignorar archivos y carpetas de entornos virtuales
+venv/
+env/
+.env/
+
+# Ignorar archivos compilados de Python
+*.pyc
+__pycache__/
+
+# Ignorar directorios de pruebas y cobertura
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# Ignorar archivos de configuración de editores
+.vscode/
+.idea/
+
+# Ignorar archivos y carpetas de distribuciones
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Ignorar archivos de base de datos y de usuario
+*.sqlite3
+*.db
+
+# Ignorar archivos de configuración local
+*.env
+.env.*
+
+# Ignorar archivos de caché
+*.pyo
+*.pyd
+
+# Ignorar archivos de dependencias
+pip-log.txt
+pip-delete-this-directory.txt
