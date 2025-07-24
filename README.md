@@ -1,15 +1,31 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cyLOSpir)
 ## breve descripcion de lo que contiene mi repositorio:
 mi repositorio contiene material y ejercicios relacionados con el uso de Git y GitHub, como parte de la asignatura de programación 
-## cuales son los pasos para clonar y ejecutar el proyecto:
-1. Clonar el repositorio:
+## cuales son los pasos para clonar y ejecutar el proyecto: 
 
-Copia la URL del repositorio 
-Abre la consola y ejecuta:
-git clone (pon la URL del repositorio)
-entra al directorio del proyecto: 
-cd(nombre del repositorio)
+Copia la URL del repositorio   
+Abre la consola y ejecuta:  
+git clone (pon la URL del repositorio)  
+entra al directorio del proyecto:   
+cd(nombre del repositorio)  
 
+[repositorio remoto](./docs/repositorio_%20remoto.md)
+[repositorio local](./docs/repositorio_local.md)
+[uso consola](./docs/uso_consola.md)
+
+![image1](./images/Captura%20de%20pantalla%202025-07-24%20174250.png)  
+![image2](./images/Captura%20de%20pantalla%202025-07-24%20174239.png)  
+![image3](./images/Captura%20de%20pantalla%202025-07-24%20174228.png)  
+![image4](./images/Captura%20de%20pantalla%202025-07-24%20174216.png)  
+![image5](./images/Captura%20de%20pantalla%202025-07-24%20174204.png)  
+![image6](./images/Captura%20de%20pantalla%202025-07-24%20174155.png)  
+![image7](./images/Captura%20de%20pantalla%202025-07-24%20174135.png)  
+![image 8](./images/Captura%20de%20pantalla%202025-07-24%20174120.png)  
+![image9](./images/Captura%20de%20pantalla%202025-07-24%20174107.png)  
+![image10](./images/Captura%20de%20pantalla%202025-07-24%20174053.png)  
+![image11](./images/Captura%20de%20pantalla%202025-07-24%20174041.png)  
+![image12](./images/Captura%20de%20pantalla%202025-07-24%20174029.png)  
+![image13](./images/Captura%20de%20pantalla%202025-07-24%20174003.png)  
 ## Información del estudiante  
 Nombre del estudiante: salome giraldo 
 Id.:  000551048
