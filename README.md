@@ -1,8 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cyLOSpir)
+## breve descripcion de lo que contiene mi repositorio:
+mi repositorio contiene material y ejercicios relacionados con el uso de Git y GitHub, como parte de la asignatura de programación 
+## cuales son los pasos para clonar y ejecutar el proyecto:
+
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: salome giraldo 
+Id.:  000551048
 ---
 # Evaluación
 
